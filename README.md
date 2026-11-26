@@ -22,15 +22,15 @@
 <p>
   <b>Languages</b><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,bash,swift&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,ts,js,bash,swift&theme=light" alt="Python, TypeScript, JavaScript, Bash, Swift" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Clua%2Cbash%2Cswift&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,lua,bash,swift&theme=light" alt="Python, TypeScript, JavaScript, Lua, Bash, Swift" />
   </picture>
 </p>
 
 <p>
   <b>Web</b><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss&theme=dark" />
     <img src="https://skillicons.dev/icons?i=react,html,css&theme=light" alt="React, HTML, CSS" />
   </picture>
 </p>
@@ -38,7 +38,7 @@
 <p>
   <b>Infra &amp; tools</b><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,git&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Clinux%2Cgit&theme=dark" />
     <img src="https://skillicons.dev/icons?i=docker,linux,git&theme=light" alt="Docker, Linux, Git" />
   </picture>
 </p>
